@@ -5,4 +5,6 @@ Papers:
     
 </br>    
 Articles:
-    [变分自编码器, 苏剑林 2018 (详解易读)](https://kexue.fm/archives/5253.html)
+    [变分自编码器, 苏剑林 2018](https://kexue.fm/archives/5253)
+    
+    d
