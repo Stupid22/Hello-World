@@ -7,4 +7,3 @@ Papers:
 Articles:
     [变分自编码器, 苏剑林 2018](https://kexue.fm/archives/5253)
     
-https://www.baidu.com
