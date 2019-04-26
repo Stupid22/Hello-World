@@ -1,5 +1,6 @@
-:title:
-# READ
+# Thanks
+---
+## READ
 Papers:
     [Auto-Encoding Variational Bayes, Diederik P. Kingma 2013](https://arxiv.org/pdf/1312.6114.pdf)
     
